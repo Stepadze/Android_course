@@ -1,4 +1,4 @@
-package com.example.android_couse.ui.theme
+package com.example.practice3final.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

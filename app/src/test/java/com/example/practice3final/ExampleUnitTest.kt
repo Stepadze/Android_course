@@ -1,4 +1,4 @@
-package com.example.android_couse
+package com.example.practice3final
 
 import org.junit.Test
 

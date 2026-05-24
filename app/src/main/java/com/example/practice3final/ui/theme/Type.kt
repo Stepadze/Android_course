@@ -1,4 +1,4 @@
-package com.example.android_couse.ui.theme
+package com.example.practice3final.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
