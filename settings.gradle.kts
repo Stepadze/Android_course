@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Practice3Final"
+rootProject.name = "Android_couse"
 include(":app")
